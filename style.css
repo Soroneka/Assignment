@@ -233,3 +233,147 @@ nav ul li a{
 
 }
 /*  Latest  Deals -section*/
+
+.Latest-Deals{
+    text-align: center;
+    margin-bottom: 120px;
+}
+.Latest{
+    color: #E95A08;
+    font-size: 50px;
+    font-weight: bold;
+}
+.Deals{
+    color: #000000;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+/* banner */
+.Bloom-Plant-1{
+    width: 300px;
+    height: 72px;
+    background-image: url(./assets/deal-bloom.png);
+    text-align: center;
+    padding: 65px 45px 60px 2px;
+    background-repeat: no-repeat;
+    border-radius: 14px;
+    
+    margin-bottom: 25px;
+    
+}
+.off{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+}
+.Shop-Now{
+    color: #FFFFFF;
+    text-decoration: underline;
+    font-size: 16px;
+    font-weight: 600px;
+}
+.Ana-plant{
+    width: 300px;
+    height: 72px;
+    background-image: url(./assets/deal-ana.png);
+  
+    text-align: center;
+    padding: 65px 45px 60px 2px;
+    background-repeat: no-repeat;
+    border-radius: 14px;
+
+}
+
+.Zabo-plant{
+    width: 420px;
+    height: 85px;
+    background-image: url(./assets/deal-zabo.png);
+    text-align: center;
+    border-radius: 22px;
+    padding: 170px 117px 170px 147px;
+    background-repeat: no-repeat;
+}
+.Plant-design{
+    display: flex;
+    gap: 25px;
+    margin: 120px 150px 120px 150px;
+}
+.Zabo{
+    color: #FFFFFF;
+    font-size: 35px;
+    font-weight: bold;
+}
+.shop-2{
+    font-weight: 600px;
+    font-size: 28px;
+    text-decoration: underline;
+    color: #FFFFFF;
+
+}
+
+/* last-section */
+.colorful-Bunch{
+    background-image: url(./assets/news-letter-bg.png);
+    width: 100%;
+    height: 530px;
+    text-align: center;
+    
+}
+.Join-the{
+    font-weight: bold;
+    font-size: 50px;
+    color: #FFFFFF;
+    position: relative;
+    bottom: -220px;
+}
+.email{
+    width: 640px;
+    height: 50px;
+    position: relative;
+    bottom: -240px;
+}
+.Subscribe{
+    width: 200px;
+    background-color: #E95A08;
+    color: #FFFFFF;
+    height: 55px;
+    padding: 15px;
+    border-color: #E95A08;
+    position: relative;
+    bottom: -240px;
+}
+
+/* footer-style */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
