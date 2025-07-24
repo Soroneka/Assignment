@@ -170,3 +170,66 @@ nav ul li a{
     margin: 50px 150px 80px 95px;
     gap: 20px;
 }
+/*  Plants Lover Section*/
+.img-design{
+    /* border: 1px solid red; */
+    display: flex;
+}
+.img-4{
+    width: 540px;
+    height: 597px;
+
+}
+.img-5{
+    width: 286px;
+    height: 286px;
+    position: relative;
+    left: -170px;
+    top: -100px;
+
+}
+.Flower-lover{
+    display: flex;
+    
+    
+    
+}
+.full-design{
+    max-width: 1140px;
+    /* border: 1px solid green; */
+    margin-top: 210px;
+    margin: 210px 150px 130px 150px;
+
+}
+.Flower-design{
+    width: 600px;
+    height: 310px;
+    /* border: 1px solid yellow; */
+    position: relative;
+    left: -235px;
+    bottom: -140px;
+    
+
+    
+    
+
+}
+
+/* next */
+.plants-2{
+    color: #000000;
+    font-size: 50px;
+    font-weight: bold;
+}
+.Indulge-3{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 14px;
+    font-weight: 400px;
+}
+.list-class{
+    gap: 10px;
+    width: 400px;
+    
+
+}
+/*  Latest  Deals -section*/
