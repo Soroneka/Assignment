@@ -586,8 +586,9 @@ nav ul li a{
         text-align: left;
         left: -82px;
         font-size: 15px;
-        /* height: 45%; */
-        height: max-content;
+        
+        height: 230px;
+        
     }
     .list-2{
         margin-top: 40px;
@@ -609,6 +610,12 @@ nav ul li a{
         left: 20px;
 
     }
+    .Latest-Deals{
+        padding: 20px;
+    }
+
+
+
 
 
     *{
