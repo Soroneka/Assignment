@@ -432,7 +432,13 @@ nav ul li a{
         margin-right: 0px;
     }
     .img-2{
-        width: 395px;
+        /* width: 395px; */
+        width: 100%;
+        display: block;
+        
+
+        
+
     }
     .ALWAYS, .Fresh{
         font-size: 24px;
@@ -465,11 +471,15 @@ nav ul li a{
     .Card-head{
         grid-template-columns: repeat(2,1fr);
          
-         margin: 28px 14px 28px 20px;
+         /* margin: 28px 14px 28px 20px; */
+         margin: 0 auto;
+         padding: 12px;
+         
          
     }
     .Lily, .word{
         font-size: 16px;
+        width: 90%;
         
     }
     .add-to{
@@ -500,11 +510,16 @@ nav ul li a{
         font-size: 14px;
     }
     .full-design{
-        width: calc(100% - 20px);
-        margin: 41px 18px 18px 18px;
+        /* width: calc(100% - 20px); */
+        /* margin: 41px 18px 18px 18px; */
+        width: 90%;
+        display: block;
+        margin: 0 auto;
+        padding: 12px;
     }
     .Flower-lover{
         flex-direction: column;
+        
     }
     .list-class{
         width: 260px;
@@ -513,7 +528,7 @@ nav ul li a{
         width: 360px;
         height: 335px;
         position: relative;
-        left: 15px;
+        left: 01px;
         bottom: 0.5px;
         margin-bottom: 140px;
     }
@@ -524,6 +539,9 @@ nav ul li a{
         margin: 40px 15px 15px 25px;
         position: relative;
         top: -55px;
+        /* padding: 12px; */
+        align-items: center;
+        width: 90%;
 
     }
     .Latest, .Deals{
@@ -581,6 +599,9 @@ nav ul li a{
         position: relative;
         top: -210px;
         margin: 0px;
+        
+        width: 100%;
+        display: block;
         
    
     }
