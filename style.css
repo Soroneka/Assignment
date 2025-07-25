@@ -575,10 +575,12 @@ nav ul li a{
 
         background-position: center;
         background-size: contain;
+        
         /* background-size: cover; */
         background-repeat: no-repeat;
         position: relative;
         top: -210px;
+        margin: 0px;
         
    
     }
@@ -592,6 +594,7 @@ nav ul li a{
         font-size: 15px;
         
         height: 230px;
+        
         
     }
     .list-2{
